@@ -1,0 +1,38 @@
+.list{
+    max-width: 250px;
+    border:2px solid black;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.category{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding:5px;
+    margin:0;
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+}
+
+.listitems{
+    border:0;
+    padding:10px;
+    background-color: rgb(255, 239, 90);
+    font-size: 30px;
+    
+}
+
+button{
+    color:white;
+    background-color: rgb(3, 174, 63);
+    margin:10px;
+    padding:10px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(159, 157, 157);
+}
+
+button:hover{
+    background-color: rgb(61, 28, 208);
+}
